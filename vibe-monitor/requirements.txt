@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+prometheus-fastapi-instrumentator
+opentelemetry-distro
+opentelemetry-instrumentation-fastapi
+opentelemetry-exporter-otlp
+opentelemetry-instrumentation-logging
+requests
